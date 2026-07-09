@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ab6fe69-7fd7-4231-9333-0c53637b8b61" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/TicTacToeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/datasource/mapper/GameMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/datasource/model/CurrentGameEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/datasource/model/GameBoardEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/datasource/model/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/datasource/repository/GameRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/datasource/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/datasource/service/AuthServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/datasource/service/GameServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/datasource/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/di/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/di/SpringConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/domain/model/CurrentGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/domain/model/GameBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/domain/model/GameState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/domain/model/Symbol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/domain/service/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/domain/service/GameService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/domain/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/controller/GameController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/filter/AuthFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/mapper/GameWebMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/model/CreateGameRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/model/CurrentGameDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/model/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/model/GameBoardDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/model/SignUpRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tictactoe/web/model/UserDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="TicTacToe_1.2_sql_auth" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-8.10-bin/deqhafrv1ntovfmgh0nh3npr9/gradle-8.10" javaHome="$USER_HOME$/Library/Java/JavaVirtualMachines/temurin-18.0.2.1/Contents/Home" gradleVersion="8.10" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3Fpba09v94P3TfksIh0XvinBUgT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build TicTacToe_1.2_sql_auth.executor": "Run",
+    "Gradle.TicTacToe_1.2_sql_auth [:org.example.Main.main()].executor": "Run",
+    "Gradle.TicTacToe_1.2_sql_auth [:tictactoe.TicTacToeApplication.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHELLCHECK.PATH": "/Users/nikitahristincev/Library/Application Support/JetBrains/IdeaIC2025.2/plugins/Shell Script/shellcheck",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/nikitahristincev/School21/Code/s21_project/Java/Backend/AP1_Jv_T04B.ID_1421426-1/src/TicTacToe_1.2_sql_auth/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ab6fe69-7fd7-4231-9333-0c53637b8b61" name="Changes" comment="" />
+      <created>1782775017854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782775017854</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+rootProject.name = "TicTacToe_1.2_sql_auth"
